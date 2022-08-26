@@ -55,12 +55,24 @@ day01.ControlStatement.EventOddNumber();*/
 //_01_Fundamental.Rabu03.MathCase.sumDigit();
 //Console.WriteLine(_01_Fundamental.day01.StringCase.ReverseStringBuilder("rin"));
 
-Console.WriteLine(_01_Fundamental.day01.StringCase.ReverseString("rin"));
+//Console.WriteLine(_01_Fundamental.day01.StringCase.ReverseString("rin"));
 //_01_Fundamental.day01.StringCase.ReverseString
 
 
 /*QUIZ LOGIC 1*/
-
+_01_Fundamental.day01.QuizLogic01.Summary();
+//_01_Fundamental.day01.QuizLogic01.CountDigits();
+//_01_Fundamental.day01.QuizLogic01.BalikAngka();
+//_01_Fundamental.day01.QuizLogic01.MaxKedua();
+//_01_Fundamental.day01.QuizLogic01.GuessNumbers();
+//_01_Fundamental.day01.QuizLogic01.Max();
+//_01_Fundamental.day01.QuizLogic01.AngkaPembagi();
+//_01_Fundamental.day01.QuizLogic01.PrimeNumber();
+//_01_Fundamental.day01.QuizDay01.Palindrome();
+//_01_Fundamental.day01.QuizLogic01.Vowel1();
+//_01_Fundamental.day01.QuizLogic01.Replace();
+//_01_Fundamental.day01.QuizLogic01.Vowel();
+//_01_Fundamental.day01.QuizLogic01.JumlahKata();
 
 
 
