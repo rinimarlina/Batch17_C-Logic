@@ -1,0 +1,15 @@
+D:\01-Fundamental\Day03\bin\Debug\net6.0\Day03.exe
+D:\01-Fundamental\Day03\bin\Debug\net6.0\Day03.deps.json
+D:\01-Fundamental\Day03\bin\Debug\net6.0\Day03.runtimeconfig.json
+D:\01-Fundamental\Day03\bin\Debug\net6.0\Day03.dll
+D:\01-Fundamental\Day03\bin\Debug\net6.0\Day03.pdb
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.csproj.AssemblyReference.cache
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.AssemblyInfoInputs.cache
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.AssemblyInfo.cs
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.csproj.CoreCompileInputs.cache
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.dll
+D:\01-Fundamental\Day03\obj\Debug\net6.0\refint\Day03.dll
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.pdb
+D:\01-Fundamental\Day03\obj\Debug\net6.0\Day03.genruntimeconfig.cache
+D:\01-Fundamental\Day03\obj\Debug\net6.0\ref\Day03.dll

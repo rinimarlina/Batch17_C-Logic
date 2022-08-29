@@ -1,0 +1,5 @@
+D:\01-Fundamental\Day04\obj\Debug\net6.0\Day03.csproj.AssemblyReference.cache
+D:\01-Fundamental\Day04\obj\Debug\net6.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+D:\01-Fundamental\Day04\obj\Debug\net6.0\Day03.AssemblyInfoInputs.cache
+D:\01-Fundamental\Day04\obj\Debug\net6.0\Day03.AssemblyInfo.cs
+D:\01-Fundamental\Day04\obj\Debug\net6.0\Day03.csproj.CoreCompileInputs.cache
