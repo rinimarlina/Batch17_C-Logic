@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Fundamental", "01-Fundam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02", "Day02\Day02.csproj", "{CFA220FA-FA91-45A5-A5E8-EB595209BA5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03", "Day03\Day03.csproj", "{4F06254E-97E0-46C6-93EB-D81930D4EB95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03", "Day03\Day03.csproj", "{4F06254E-97E0-46C6-93EB-D81930D4EB95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriksIniBoss", "MatriksIniBoss\MatriksIniBoss.csproj", "{D8AC1939-3E89-4F1D-B242-7F62FCB11C71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4", "Day4\Day4.csproj", "{2EF4A72A-4ACA-4DCD-8195-051AE00F293E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{4F06254E-97E0-46C6-93EB-D81930D4EB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F06254E-97E0-46C6-93EB-D81930D4EB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F06254E-97E0-46C6-93EB-D81930D4EB95}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8AC1939-3E89-4F1D-B242-7F62FCB11C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8AC1939-3E89-4F1D-B242-7F62FCB11C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8AC1939-3E89-4F1D-B242-7F62FCB11C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8AC1939-3E89-4F1D-B242-7F62FCB11C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF4A72A-4ACA-4DCD-8195-051AE00F293E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF4A72A-4ACA-4DCD-8195-051AE00F293E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF4A72A-4ACA-4DCD-8195-051AE00F293E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF4A72A-4ACA-4DCD-8195-051AE00F293E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

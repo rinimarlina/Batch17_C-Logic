@@ -110,12 +110,7 @@ namespace Day02
         }
         
         //No 7
-        //public static int[] RemoveDuplicates(int[] n)
-        //{
-        //    int[] array = arr;
-
-        //}
-
+       
 
         public static void DisplayArray(int[] arr)
         {
