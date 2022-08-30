@@ -74,6 +74,7 @@ var empsSalaryRange = empInf.FindSalaryRange(listOfEmps, 5_000_000, 6_000_000);
 empInf.ShowList(ref empsSalaryRange);*/
 
 
+
 using Day4.QuizDay04;
 using System;
 using System.Collections.Generic;
@@ -114,5 +115,4 @@ WriteLine("\n-----------------------------------------Find Revenue By Type------
 var RevRange = carInf.FindRevenueByRange(listCar, 500_000, 600_000);
 carInf.ShowList(ref RevRange); 
 
-
- ReadLine();
+ReadLine();

@@ -66,8 +66,7 @@ namespace Day4.PartTwo
             //direct return without variable
             return new List<Employee> { emp1, emp2, emp3, prog1, sals, myQA };
         }
-
-     
+         
 
         public void ShowList<T>(ref List<T> list)
         {

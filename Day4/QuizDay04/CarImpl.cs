@@ -30,7 +30,6 @@ namespace Day4.QuizDay04
                 }
             }
 
-           // Console.WriteLine("\n-----------------------------------------Total Car By Type-----------------------------------------");
             totalType.Add("SUV", totalSUV);
             totalType.Add("Taxi", totalTaxi);
             totalType.Add("Angkot", totalAngkot);
@@ -58,8 +57,6 @@ namespace Day4.QuizDay04
                     revAngkot += item.TotalRevenue;
                 }
             }
-            //Console.WriteLine("\n-----------------------------------------Total Revenue By Type-----------------------------------------");
-
             totalRevn.Add("SUV", revSUV);
             totalRevn.Add("Taxi", revTaxi);
             totalRevn.Add("Angkot", revAngkot);
